@@ -1,3 +1,3 @@
 # shopping-cart
-<h3>Test Version, you can try it now! </h3>
+<h3>Shopping Cart with NodeJS/ Express </h3>
 https://shopping-cart-application.herokuapp.com/
