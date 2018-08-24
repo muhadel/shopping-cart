@@ -1,0 +1,21 @@
+/*body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}*/
+.thumbnail img{
+   min-width: 300; 
+  min-height: 150px;
+  /* max-width: 300px; */
+  max-height: 400px;
+}
+.thumbnail .description{
+  color: #7f7f7f;
+}
+.price{
+  font-weight: bold;
+  font-size: 16px;
+}
