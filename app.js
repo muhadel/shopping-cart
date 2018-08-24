@@ -18,7 +18,10 @@ var userRoutes = require('./routes/user')
 var app = express();
 
 // mongoose.connect('localhost:27017/shopping');
-mongoose.connect('mongodb://localhost:27017/shopping', { useNewUrlParser: true });
+//mongoose.connect('mongodb://localhost:27017/shopping', { useNewUrlParser: true });
+mongoose.connect('mongodb://dola:dola123456@ds125352.mlab.com:25352/shopping-card', { useNewUrlParser: true });
+
+
 require('./config/passport');
 
 // view engine setup
